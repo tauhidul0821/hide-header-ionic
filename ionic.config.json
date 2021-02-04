@@ -1,0 +1,7 @@
+{
+  "name": "academyHeader",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
